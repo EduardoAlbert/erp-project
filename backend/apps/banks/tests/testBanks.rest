@@ -1,0 +1,8 @@
+
+### Teste de buscar todos os Bancos
+GET http://localhost:40000/getAllBanks HTTP/1.1
+content-type: application/json
+
+{
+
+}
